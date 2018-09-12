@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFirstProject</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity__sem__parametro">Activity_Sem_Parametro</string>
+    <string name="title_activity_com__parametro">Activity_com_Parametro</string>
+</resources>
